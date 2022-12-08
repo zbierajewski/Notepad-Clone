@@ -1,0 +1,1 @@
+This is a simple, work-in-progress hobby project to clone Notepad from Microsoft Windows. Feel free to join!
